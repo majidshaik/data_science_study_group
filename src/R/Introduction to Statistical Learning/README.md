@@ -8,5 +8,5 @@ We will be following the book Introduction to Statistical Learning With Applicat
 - Intall R on your Jupyter Notebook [https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/]
 
 ## RESOURCE
-- https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
-- 
+- PDF Book  https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
+- Video Lectures https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V
